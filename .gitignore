@@ -122,6 +122,9 @@ modules.xml
 # Compiled class file
 *.class
 
+## ignoring target file
+target/
+
 # Log file
 *.log
 
