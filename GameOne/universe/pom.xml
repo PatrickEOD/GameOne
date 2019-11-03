@@ -14,6 +14,7 @@
 
     <modules>
         <module>universe-code</module>
+        <module>universe-docker</module>
     </modules>
 
 

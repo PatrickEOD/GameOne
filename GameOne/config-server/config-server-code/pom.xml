@@ -9,7 +9,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <groupId>GameOne.config-server</groupId>
     <artifactId>config-server-code</artifactId>
+    <version>1.0.0</version>
+    <name>${artifactId}</name>
 
     <dependencies>
         <dependency>
