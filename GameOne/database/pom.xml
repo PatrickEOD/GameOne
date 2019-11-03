@@ -11,8 +11,9 @@
 
     <artifactId>database</artifactId>
     <packaging>pom</packaging>
+
     <modules>
-        <module>docker</module>
+        <module>database-docker</module>
     </modules>
 
 
